@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Dependency directories
+/venv/
+/.venv/
+
+/myenv/
+/.myenv/
+
